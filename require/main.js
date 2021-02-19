@@ -13,3 +13,10 @@ lib1.sayHello('john');
 setTimeout(() => {
   console.log(lib1);
 }, 2000);
+
+// setTimeout(()=>{
+//   console.log(lib1)
+
+//   const lib1_new = require('./lib1')
+//   console.log(lib1)
+// })
